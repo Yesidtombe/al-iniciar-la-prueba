@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prueba Napoleon</string>
+    <string name="id_post">Id:</string>
+    <string name="username">Nombre usuario:</string>
+    <string name="email_user">Correo electrónico:</string>
+    <string name="id_user">Id usuario:</string>
+    <string name="phone_user">Teléfono:</string>
+    <string name="website_user">Sitio web:</string>
+    <string name="address_user">Dirección</string>
+    <string name="street">Calle:</string>
+    <string name="suite">Suite:</string>
+    <string name="city">Ciudad:</string>
+    <string name="zipcode">Código postal:</string>
+    <string name="latitude">Latitud:</string>
+    <string name="longitude">Longitud:</string>
+    <string name="company">Compañia</string>
+    <string name="name_company">Nombre:</string>
+    <string name="catchPhrase">Frase popular:</string>
+    <string name="bs">Tonterias:</string>
+    <string name="delete_posts">Eliminar todo</string>
+    <string name="see_favorites">Favoritos</string>
+</resources>
